@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "casino-reel-game-engine",
+  "name": "microservice-reel-game-with-jackpot",
   "description": "Reel game server for Slots",
   "main": "src/index.js",
   "scripts": {
